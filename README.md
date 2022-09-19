@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/03/66/17/57/360_F_366175754_T6tl93G5VDn9kinVYZfXG7DiLFGzzdwI.jpg)]
+![MasterHead](https://t4.ftcdn.net/jpg/03/66/17/57/360_F_366175754_T6tl93G5VDn9kinVYZfXG7DiLFGzzdwI.jpg)
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">A passionate AR/VR app and animation developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tech.gsa.gov/assets/cms/techradar/ar-vr-mr.gif">
